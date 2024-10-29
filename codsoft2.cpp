@@ -6,7 +6,7 @@ int main() {
     double firstNumber, secondNumber;
     char op;
 
-    cout << "Welcome to the calculator" << endl;
+    cout << "Welcome to the simple calculator" << endl;
     cout << "Enter your first number: ";
     cin >> firstNumber;
     cout << "Now enter your second number: ";
